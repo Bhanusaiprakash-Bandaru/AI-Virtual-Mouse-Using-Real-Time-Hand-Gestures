@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Hand%20Tracking-orange)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # AI Virtual Mouse Using Real-Time Hand Gestures
 
 An AI-powered virtual mouse system that enables hands-free cursor control and mouse actions using real-time hand gestures captured via a webcam.
