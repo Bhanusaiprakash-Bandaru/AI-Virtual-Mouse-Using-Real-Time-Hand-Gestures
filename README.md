@@ -1,4 +1,4 @@
-# AI Virtual Mouse using Hand Gestures
+# AI Virtual Mouse Using Real-Time Hand Gestures
 
 An AI-powered virtual mouse system that enables hands-free cursor control and mouse actions using real-time hand gestures captured via a webcam.
 
