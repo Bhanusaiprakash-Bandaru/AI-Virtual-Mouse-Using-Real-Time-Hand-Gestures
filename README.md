@@ -1,20 +1,18 @@
 # AI Virtual Mouse using Hand Gestures
 
-An AI-powered virtual mouse system that enables hands-free control of cursor movement and mouse actions using real-time hand gestures captured via a webcam.
-
-The system leverages computer vision and hand landmark detection to replace traditional mouse interactions with intuitive hand gestures.
+An AI-powered virtual mouse system that enables hands-free cursor control and mouse actions using real-time hand gestures captured via a webcam.
 
 ---
 
 ## ✨ Features
 
+- Real-time gesture instruction panel
+- Live action feedback (FPS & current action)
 - Cursor movement using index finger
 - Left click using index + middle finger
 - Right click using thumb + index finger
 - Scroll up and down using finger combinations
 - Double click using three-finger gesture
-- Real-time gesture instruction panel
-- Live action feedback (FPS & current action)
 - Smooth cursor movement with noise reduction
 
 ---
@@ -24,7 +22,7 @@ The system leverages computer vision and hand landmark detection to replace trad
 - **Python** – Core programming language  
 - **OpenCV** – Video capture and image processing  
 - **MediaPipe** – Hand landmark detection  
-- **NumPy** – Mathematical computations  
+- **NumPy** – Numerical computations and coordinate mapping
 - **AutoPy** – System-level mouse control  
 - **PyAutoGUI** – Scrolling and system interactions  
 
@@ -58,6 +56,14 @@ Virtual-Mouse/
 4. Hand coordinates are mapped to screen coordinates.
 5. Mouse actions are triggered using system-level automation libraries.
 6. A visual instruction panel guides users with supported gestures.
+
+---
+
+## 📌 Notes
+
+- Designed for educational and experimental purposes
+- Tested on Windows systems
+- Requires a webcam for real-time gesture detection
 
 ---
 
